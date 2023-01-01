@@ -1,1 +1,4 @@
 cmake-*/
+out/
+.vs/
+.vscode/
